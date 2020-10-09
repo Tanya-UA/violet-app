@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/violet-app/static/css/main.ce077eb4.chunk.css",
-    "main.js": "/violet-app/static/js/main.6c7a00e5.chunk.js",
-    "main.js.map": "/violet-app/static/js/main.6c7a00e5.chunk.js.map",
+    "main.css": "/violet-app/static/css/main.c7a64116.chunk.css",
+    "main.js": "/violet-app/static/js/main.a36718bc.chunk.js",
+    "main.js.map": "/violet-app/static/js/main.a36718bc.chunk.js.map",
     "runtime-main.js": "/violet-app/static/js/runtime-main.d47aac1f.js",
     "runtime-main.js.map": "/violet-app/static/js/runtime-main.d47aac1f.js.map",
     "static/css/2.4b1c50d2.chunk.css": "/violet-app/static/css/2.4b1c50d2.chunk.css",
-    "static/js/2.bc43ab3b.chunk.js": "/violet-app/static/js/2.bc43ab3b.chunk.js",
-    "static/js/2.bc43ab3b.chunk.js.map": "/violet-app/static/js/2.bc43ab3b.chunk.js.map",
+    "static/js/2.8eb59f56.chunk.js": "/violet-app/static/js/2.8eb59f56.chunk.js",
+    "static/js/2.8eb59f56.chunk.js.map": "/violet-app/static/js/2.8eb59f56.chunk.js.map",
     "index.html": "/violet-app/index.html",
-    "precache-manifest.87ed85e59acbc4fec2db5853fbe69e9a.js": "/violet-app/precache-manifest.87ed85e59acbc4fec2db5853fbe69e9a.js",
+    "precache-manifest.2b60f41c2c5dac34ab9c9020834ee2cc.js": "/violet-app/precache-manifest.2b60f41c2c5dac34ab9c9020834ee2cc.js",
     "service-worker.js": "/violet-app/service-worker.js",
     "static/css/2.4b1c50d2.chunk.css.map": "/violet-app/static/css/2.4b1c50d2.chunk.css.map",
-    "static/css/main.ce077eb4.chunk.css.map": "/violet-app/static/css/main.ce077eb4.chunk.css.map",
-    "static/js/2.bc43ab3b.chunk.js.LICENSE.txt": "/violet-app/static/js/2.bc43ab3b.chunk.js.LICENSE.txt",
+    "static/css/main.c7a64116.chunk.css.map": "/violet-app/static/css/main.c7a64116.chunk.css.map",
+    "static/js/2.8eb59f56.chunk.js.LICENSE.txt": "/violet-app/static/js/2.8eb59f56.chunk.js.LICENSE.txt",
     "static/media/allImgBase.css": "/violet-app/static/media/9.ee431f45.jpg",
     "static/media/happyClient.css": "/violet-app/static/media/5.d583999c.jpg",
     "static/media/offers.css": "/violet-app/static/media/4.68453905.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.d47aac1f.js",
     "static/css/2.4b1c50d2.chunk.css",
-    "static/js/2.bc43ab3b.chunk.js",
-    "static/css/main.ce077eb4.chunk.css",
-    "static/js/main.6c7a00e5.chunk.js"
+    "static/js/2.8eb59f56.chunk.js",
+    "static/css/main.c7a64116.chunk.css",
+    "static/js/main.a36718bc.chunk.js"
   ]
 }
