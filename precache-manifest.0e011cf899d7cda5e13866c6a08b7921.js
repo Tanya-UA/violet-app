@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "faea88b818fe9f0e18db8fe2d0e441d4",
+    "revision": "2af4b82b1ba03df0d31b7740c3fca4c6",
     "url": "/violet-app/index.html"
   },
   {
-    "revision": "3addb00e608cd7cd8b2b",
+    "revision": "a5989df3e77360f09b35",
     "url": "/violet-app/static/css/2.4b1c50d2.chunk.css"
   },
   {
-    "revision": "c9f44ee5f40cdd76852b",
-    "url": "/violet-app/static/css/main.594d4a3c.chunk.css"
+    "revision": "e5f8c415c325ca66c65d",
+    "url": "/violet-app/static/css/main.faaece9d.chunk.css"
   },
   {
-    "revision": "3addb00e608cd7cd8b2b",
-    "url": "/violet-app/static/js/2.8eb59f56.chunk.js"
+    "revision": "a5989df3e77360f09b35",
+    "url": "/violet-app/static/js/2.ad896943.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/violet-app/static/js/2.8eb59f56.chunk.js.LICENSE.txt"
+    "url": "/violet-app/static/js/2.ad896943.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9f44ee5f40cdd76852b",
-    "url": "/violet-app/static/js/main.2119cf09.chunk.js"
+    "revision": "e5f8c415c325ca66c65d",
+    "url": "/violet-app/static/js/main.b8d0cf7b.chunk.js"
   },
   {
     "revision": "670dc131023129293425",
