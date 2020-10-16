@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2af4b82b1ba03df0d31b7740c3fca4c6",
+    "revision": "bd316d7dd057ec186b882135f9735666",
     "url": "/violet-app/index.html"
   },
   {
-    "revision": "a5989df3e77360f09b35",
-    "url": "/violet-app/static/css/2.4b1c50d2.chunk.css"
+    "revision": "952ca8f262b9da5ee8d6",
+    "url": "/violet-app/static/css/main.7eeae948.chunk.css"
   },
   {
-    "revision": "e5f8c415c325ca66c65d",
-    "url": "/violet-app/static/css/main.faaece9d.chunk.css"
+    "revision": "55358e52aca0b6c2fc8f",
+    "url": "/violet-app/static/js/2.68430bf2.chunk.js"
   },
   {
-    "revision": "a5989df3e77360f09b35",
-    "url": "/violet-app/static/js/2.ad896943.chunk.js"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/violet-app/static/js/2.68430bf2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/violet-app/static/js/2.ad896943.chunk.js.LICENSE.txt"
-  },
-  {
-    "revision": "e5f8c415c325ca66c65d",
-    "url": "/violet-app/static/js/main.b8d0cf7b.chunk.js"
+    "revision": "952ca8f262b9da5ee8d6",
+    "url": "/violet-app/static/js/main.2954abdb.chunk.js"
   },
   {
     "revision": "670dc131023129293425",
@@ -420,23 +416,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/violet-app/static/media/contact2.41fecae2.png"
   },
   {
-    "revision": "3ea75d48a680963e39a92147135887d3",
-    "url": "/violet-app/static/media/home.3ea75d48.jpg"
-  },
-  {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/violet-app/static/media/slick.b7c9e1e4.woff"
-  },
-  {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/violet-app/static/media/slick.ced611da.eot"
-  },
-  {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/violet-app/static/media/slick.d41f55a7.ttf"
-  },
-  {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/violet-app/static/media/slick.f97e3bbf.svg"
+    "revision": "bde575a7b6e3896f07d38751ded72975",
+    "url": "/violet-app/static/media/home.bde575a7.jpg"
   }
 ]);
