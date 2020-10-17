@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2916b3901b04c614d09d1b6674b8c76d",
+    "revision": "f3531811ad8ab25d86ac0266b857b51e",
     "url": "/violet-app/index.html"
   },
   {
-    "revision": "826eacca0f3ff6f9cd79",
+    "revision": "c5a612faef66d0944104",
     "url": "/violet-app/static/css/main.73199bc8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/violet-app/static/js/2.ed3727f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "826eacca0f3ff6f9cd79",
-    "url": "/violet-app/static/js/main.ed286d5b.chunk.js"
+    "revision": "c5a612faef66d0944104",
+    "url": "/violet-app/static/js/main.31dd28d0.chunk.js"
   },
   {
     "revision": "670dc131023129293425",

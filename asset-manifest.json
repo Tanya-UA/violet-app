@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/violet-app/static/css/main.73199bc8.chunk.css",
-    "main.js": "/violet-app/static/js/main.ed286d5b.chunk.js",
-    "main.js.map": "/violet-app/static/js/main.ed286d5b.chunk.js.map",
+    "main.js": "/violet-app/static/js/main.31dd28d0.chunk.js",
+    "main.js.map": "/violet-app/static/js/main.31dd28d0.chunk.js.map",
     "runtime-main.js": "/violet-app/static/js/runtime-main.d47aac1f.js",
     "runtime-main.js.map": "/violet-app/static/js/runtime-main.d47aac1f.js.map",
     "static/js/2.ed3727f5.chunk.js": "/violet-app/static/js/2.ed3727f5.chunk.js",
     "static/js/2.ed3727f5.chunk.js.map": "/violet-app/static/js/2.ed3727f5.chunk.js.map",
     "index.html": "/violet-app/index.html",
-    "precache-manifest.a586b328a808a9566a26f5245a28f597.js": "/violet-app/precache-manifest.a586b328a808a9566a26f5245a28f597.js",
+    "precache-manifest.5a6eb795fe3f90724884bd5b37a4425c.js": "/violet-app/precache-manifest.5a6eb795fe3f90724884bd5b37a4425c.js",
     "service-worker.js": "/violet-app/service-worker.js",
     "static/css/main.73199bc8.chunk.css.map": "/violet-app/static/css/main.73199bc8.chunk.css.map",
     "static/js/2.ed3727f5.chunk.js.LICENSE.txt": "/violet-app/static/js/2.ed3727f5.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.d47aac1f.js",
     "static/js/2.ed3727f5.chunk.js",
     "static/css/main.73199bc8.chunk.css",
-    "static/js/main.ed286d5b.chunk.js"
+    "static/js/main.31dd28d0.chunk.js"
   ]
 }
