@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/violet-app/precache-manifest.b87d04babb240e4cac9c329c6b68cb61.js"
+  "/violet-app/precache-manifest.56a9de5925e14acd7c9f8a186d7b68bb.js"
 );
 
 self.addEventListener('message', (event) => {
