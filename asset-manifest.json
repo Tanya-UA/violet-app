@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/violet-app/static/css/main.73199bc8.chunk.css",
-    "main.js": "/violet-app/static/js/main.51fd7c4e.chunk.js",
-    "main.js.map": "/violet-app/static/js/main.51fd7c4e.chunk.js.map",
+    "main.css": "/violet-app/static/css/main.87f4692d.chunk.css",
+    "main.js": "/violet-app/static/js/main.15e3b913.chunk.js",
+    "main.js.map": "/violet-app/static/js/main.15e3b913.chunk.js.map",
     "runtime-main.js": "/violet-app/static/js/runtime-main.d47aac1f.js",
     "runtime-main.js.map": "/violet-app/static/js/runtime-main.d47aac1f.js.map",
     "static/js/2.ed3727f5.chunk.js": "/violet-app/static/js/2.ed3727f5.chunk.js",
     "static/js/2.ed3727f5.chunk.js.map": "/violet-app/static/js/2.ed3727f5.chunk.js.map",
     "index.html": "/violet-app/index.html",
-    "precache-manifest.4a9a5cab750da9ac398d1069264fbf04.js": "/violet-app/precache-manifest.4a9a5cab750da9ac398d1069264fbf04.js",
+    "precache-manifest.a3daf8fcd978237da6a1b4fd31a3c022.js": "/violet-app/precache-manifest.a3daf8fcd978237da6a1b4fd31a3c022.js",
     "service-worker.js": "/violet-app/service-worker.js",
-    "static/css/main.73199bc8.chunk.css.map": "/violet-app/static/css/main.73199bc8.chunk.css.map",
+    "static/css/main.87f4692d.chunk.css.map": "/violet-app/static/css/main.87f4692d.chunk.css.map",
     "static/js/2.ed3727f5.chunk.js.LICENSE.txt": "/violet-app/static/js/2.ed3727f5.chunk.js.LICENSE.txt",
     "static/media/allImgBase.css": "/violet-app/static/media/9.ee431f45.jpg",
     "static/media/mobMinStyle.css": "/violet-app/static/media/4.1f1f89ea.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.d47aac1f.js",
     "static/js/2.ed3727f5.chunk.js",
-    "static/css/main.73199bc8.chunk.css",
-    "static/js/main.51fd7c4e.chunk.js"
+    "static/css/main.87f4692d.chunk.css",
+    "static/js/main.15e3b913.chunk.js"
   ]
 }
